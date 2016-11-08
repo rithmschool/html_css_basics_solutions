@@ -7,7 +7,9 @@ Next, a great way to learn CSS is to try to rebuild a few common websites. Altho
 Sites to rebuild:
 
 [Google](https://www.google.com/)
+
 [Hacker News](https://news.ycombinator.com/)
+
 [Challenge: Box Office Mojo](http://www.boxofficemojo.com/)
 
 ### Additional Resources
